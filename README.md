@@ -150,7 +150,6 @@ http://localhost/WDF/Practical-15/verify_portal.php
 
 ---
 
-## 📜 Academic Attribution & License
+## 📜 License
 
-- **Curriculum:** Web Development Framework (WDF) Laboratory, Faculty of Technology, CHARUSAT University.
-- **Source Attribution:** The laboratory practical architecture and reference implementation are adapted from the [StudentHub](https://github.com/hetbhimani5/StudentHub) project by Het Bhimani, utilized under academic permission for university laboratory submission and coursework evaluation.
+Developed as part of the Web Development curriculum at **CHARUSAT University**. All Rights Reserved © 2026.
